@@ -13,6 +13,9 @@
 		DE2D51AC29C042D700EEE33E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE2D51AA29C042D700EEE33E /* Main.storyboard */; };
 		DE2D51AE29C042D900EEE33E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE2D51AD29C042D900EEE33E /* Assets.xcassets */; };
 		DE2D51B129C042D900EEE33E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE2D51AF29C042D900EEE33E /* LaunchScreen.storyboard */; };
+		DE2D51B929C047EE00EEE33E /* MyCollectionViewCell1.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2D51B829C047EE00EEE33E /* MyCollectionViewCell1.swift */; };
+		DE2D51BB29C0493B00EEE33E /* MyCollectionViewCell2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2D51BA29C0493B00EEE33E /* MyCollectionViewCell2.swift */; };
+		DE2D51BD29C0495800EEE33E /* MyCollectionViewCell3.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2D51BC29C0495800EEE33E /* MyCollectionViewCell3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		DE2D51AD29C042D900EEE33E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE2D51B029C042D900EEE33E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE2D51B229C042D900EEE33E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE2D51B829C047EE00EEE33E /* MyCollectionViewCell1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell1.swift; sourceTree = "<group>"; };
+		DE2D51BA29C0493B00EEE33E /* MyCollectionViewCell2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell2.swift; sourceTree = "<group>"; };
+		DE2D51BC29C0495800EEE33E /* MyCollectionViewCell3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				DE2D51A629C042D700EEE33E /* SceneDelegate.swift */,
 				DE2D51A829C042D700EEE33E /* ViewController.swift */,
 				DE2D51AA29C042D700EEE33E /* Main.storyboard */,
+				DE2D51BC29C0495800EEE33E /* MyCollectionViewCell3.swift */,
+				DE2D51BA29C0493B00EEE33E /* MyCollectionViewCell2.swift */,
+				DE2D51B829C047EE00EEE33E /* MyCollectionViewCell1.swift */,
 				DE2D51AD29C042D900EEE33E /* Assets.xcassets */,
 				DE2D51AF29C042D900EEE33E /* LaunchScreen.storyboard */,
 				DE2D51B229C042D900EEE33E /* Info.plist */,
@@ -138,6 +147,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE2D51BD29C0495800EEE33E /* MyCollectionViewCell3.swift in Sources */,
+				DE2D51BB29C0493B00EEE33E /* MyCollectionViewCell2.swift in Sources */,
+				DE2D51B929C047EE00EEE33E /* MyCollectionViewCell1.swift in Sources */,
 				DE2D51A929C042D700EEE33E /* ViewController.swift in Sources */,
 				DE2D51A529C042D700EEE33E /* AppDelegate.swift in Sources */,
 				DE2D51A729C042D700EEE33E /* SceneDelegate.swift in Sources */,
